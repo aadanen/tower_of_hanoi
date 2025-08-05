@@ -5,6 +5,7 @@ A recursive implementation of the Tower of Hanoi problem in c++.
 1. simple and clear implementation
 2. single file -> easy building
 3. prints out the steps taken to solve the problem as well as the number of moves required
+4. simulates moving the rings between 3 stacks
 
 ## Improvements
 Tracking "moves" as global state might be problematic if this was implemented 
